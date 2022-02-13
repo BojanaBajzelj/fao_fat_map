@@ -4,7 +4,7 @@
 
 ## Data sources
 
-Dowload FAO Food Balance Sheet data from https://www.fao.org/faostat/en/#data/FBSH (older food balance sheets, used in paper for the map) or https://www.fao.org/faostat/en/#data/FBS (new food balance sheets)
+Dowload FAO Food Balance Sheet data from https://www.fao.org/faostat/en/#data/FBSH (older food balance sheets, used in paper for the maps SM2 and SM3) or https://www.fao.org/faostat/en/#data/FBS (new food balance sheets)
 
 Download country outlines from https://datahub.io/core/geo-countries#resource-geo-countries_zip
 
