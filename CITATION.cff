@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bajzelj"
+  given-names: "Bojana"
+  orcid: "https://orcid.org/0000-0001-9399-6916"
+- family-names: "Usher"
+  given-names: "William"
+  orcid: "https://orcid.org/0000-0001-9367-1791"
+title: "FAO Fat Map"
+version: 1.0.0
+doi: 10.5281/zenodo.6066298
+date-released: 2022-02-13
+url: "https://github.com/willu47/fao_fat_map"
