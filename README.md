@@ -17,7 +17,7 @@ This code was used to generate a plot which is found in the Supplementary Materi
 ## Data sources
 
 
-Dowload FAO Food Balance Sheet data from https://www.fao.org/faostat/en/#data/FBSH (older food balance sheets, used in paper for the maps SM2 and SM3) or https://www.fao.org/faostat/en/#data/FBS (new food balance sheets)
+Dowload FAO Food Balance Sheet Fat Supply (g/capita/day) data for a specific year from https://www.fao.org/faostat/en/#data/FBSH (older food balance sheets, used in paper for the maps SM2 and SM3, where 2013 data was used, downloaded in Oct 2019) or https://www.fao.org/faostat/en/#data/FBS (new food balance sheets)
 
     ==> data/FAOSTAT_ct_fat_items.csv <==
     Domain Code,Domain,Country Code,Country,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
