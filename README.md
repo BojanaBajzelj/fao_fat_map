@@ -16,21 +16,19 @@ This code was used to generate a plot which is found in the Supplementary Materi
 
 ## Data sources
 
-Data used is from FAO:
 
-==> data/FAOSTAT_ct_fat_items.csv <==
+Dowload FAO Food Balance Sheet data from https://www.fao.org/faostat/en/#data/FBSH (older food balance sheets, used in paper for the maps SM2 and SM3) or https://www.fao.org/faostat/en/#data/FBS (new food balance sheets)
 
+    ==> data/FAOSTAT_ct_fat_items.csv <==
     Domain Code,Domain,Country Code,Country,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
-
-==> data/FAOSTAT_data_10-25-2019.csv <==
-
-    "Country Code","Country","M49 Code","ISO2 Code","ISO3 Code","Start Year","End Year"
 
 You also need the following:
 
 - Download country outlines from https://datahub.io/core/geo-countries#resource-geo-countries_zip
-
 - Download country codes from http://www.fao.org/faostat/en/#definitions
+
+    ==> data/FAOSTAT_data_10-25-2019.csv <==
+    "Country Code","Country","M49 Code","ISO2 Code","ISO3 Code","Start Year","End Year"
 
 ## Dependencies
 
